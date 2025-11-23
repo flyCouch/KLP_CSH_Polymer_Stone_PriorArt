@@ -24,6 +24,8 @@ The binder is an aqueous solution of Sodium Silicate (Na2SiO3), which contains t
 
 The solution includes a small amount of Sucrose (typically 0.5% to 1.0% by mass) to act as a reaction retarder and control the final set time.
 
+The sugar also acts as dispersant.
+
 Cryogenic Storage: The solution is supercooled to approximately -2.3 deg C (270.85 K), achieving a viscous, semi-frozen slurry state that "kinetically locks" the polymerization reaction.
 
 Part B: The Activator Powder (Calcium Hydroxide - Ca(OH)2)
