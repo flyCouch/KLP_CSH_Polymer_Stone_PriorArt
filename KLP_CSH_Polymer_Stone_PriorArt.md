@@ -48,4 +48,4 @@ The dry solid phase is composed of **Calcium Hydroxide (Ca(OH)2)** (the calcium 
 
 ## License and Ownership
 
-This document and the described process are licensed under the **Creative Commons Attribution 4.0 International License (CC BY 4.0)**. The inventor intends to license the use of this entire formulation and process **Royalty-Free** for the benefit of global sustainable construction, while maintaining all intellectual property rights and ownership of the original invention.
+This document and the described process are licensed under the **Creative Commons Attribution 4.0 International License (CC BY-SA 4.0)**. The inventor intends to license the use of this entire formulation and process **Royalty-Free** for the benefit of global sustainable construction, while maintaining all intellectual property rights and ownership of the original invention.
