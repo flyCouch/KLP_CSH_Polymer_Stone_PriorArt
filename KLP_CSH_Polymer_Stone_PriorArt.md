@@ -23,7 +23,7 @@ The KLP process leverages the principle that reaction kinetics are severely inhi
 
 The binder is an aqueous solution of **Sodium Silicate (Na2SiO3)**.
 
-* **Sucrose:** Used as a reaction retarder to control set time for manual casting, typically at **0.5% to 1.0% by mass** of the binder.
+* **Sucrose:** Used as a reaction retarder (and dispersant) to control set time for manual casting, typically at **0.5% to 1.0% by mass** of the binder.
 * **Cryogenic Storage:** The solution is chilled to a temperature of approximately **-2.3 deg C (270.85 K)**. At this temperature, the material achieves a **supercooled, viscous slurry state**, which chemically locks the reaction kinetics.
 
 ### 2.2 Part B: The Activator Powder (Ca(OH)2 Phase)
