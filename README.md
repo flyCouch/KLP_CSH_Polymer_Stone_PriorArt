@@ -64,4 +64,4 @@ This disclosure is intended to immediately establish Prior Art for the KLP formu
 
 This material (documentation, formulation, and process) is licensed. This aligns with the inventor's goal to make the formulation and process Royalty-Free for the benefit of global sustainable construction.
 
-For the full, detailed license and disclosure, please refer to the LICENSE and KLP_Method.md files.
+For the full, detailed license and disclosure, please refer to the LICENSE.md and KLP_CSH_Polymer_Stone_PriorArt.md files.
