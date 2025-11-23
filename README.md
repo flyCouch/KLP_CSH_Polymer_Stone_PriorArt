@@ -62,6 +62,6 @@ Public Disclosure and License
 
 This disclosure is intended to immediately establish Prior Art for the KLP formulation and process, making it publicly known and accessible.
 
-This material (documentation, formulation, and process) is licensed under the MIT License. This aligns with the inventor's goal to make the formulation and process Royalty-Free for the benefit of global sustainable construction.
+This material (documentation, formulation, and process) is licensed. This aligns with the inventor's goal to make the formulation and process Royalty-Free for the benefit of global sustainable construction.
 
 For the full, detailed license and disclosure, please refer to the LICENSE and KLP_Method.md files.
