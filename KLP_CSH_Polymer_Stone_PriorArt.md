@@ -1,6 +1,6 @@
 # Novel Low-Carbon, Ambient-Cure C-S-H Polymer Stone Formulation via Kinetic Lock Polymerization (KLP)
 
-**INVENTOR:Roanld James Lyttle
+**INVENTOR:Ronald James Lyttle
 **DATE OF DISCLOSURE:2025-11-23
 
 ---
