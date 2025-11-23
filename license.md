@@ -1,4 +1,4 @@
-The MIT License (MIT)Copyright (c) 2025 Ronald James Lyttle. 
+The License, Copyright (c) 2025 Ronald James Lyttle. 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this work (Software, Documentation, and Formulation) and associated documentation files (the "Work"), 
 to deal in the Work without restriction, including without limitation the rights
 to use, copy, modify, merge, publish, distribute the Work,
