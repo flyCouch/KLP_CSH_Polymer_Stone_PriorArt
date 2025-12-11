@@ -78,4 +78,21 @@ The more liquid, the more moments of blockage. There is a limit though.
 
 Also, mixing times are important.
 
+Water Affinity Competition: 
+
+Lime and Sodium SilicateWhen a small amount of water is introduced to a quick mixture of lime powder and sodium silicate solution, the water will overwhelmingly prefer to interact with the lime powder.
+
+This scenario is governed by competitive reaction kinetics and the fundamental chemical properties of the materials involved.
+
+1. The Immediate Winner: Lime Powder (Calcium Oxide - CaO)The water's strongest chemical affinity is for the lime powder, specifically if the powder is Quicklime (Calcium Oxide, CaO).Process: Hydration (Chemical Reaction)Lime undergoes a rapid, highly exothermic chemical reaction called hydration:CaO + H2O -> Ca(OH)2 + HeatMechanism: This reaction is aggressive and instantaneous.
+2. Calcium Oxide has a powerful drive to form Calcium Hydroxide (slaked lime) and will aggressively capture any free water molecules in the mixture.Driving Force: This is a strong chemical reaction that generates significant heat and consumes the water, effectively "stealing" it from the rest of the system.2.
+3.
+4. The Loser: Sodium Silicate Solution (Physical Dilution)The sodium silicate solution is already a mixture of silica and water.Process: Dilution (Physical Process)When water encounters the sodium silicate solution, it only causes dilution, not a strong chemical reaction.
+5.
+6. Mechanism: Water molecules simply mix with the water molecules already in the solution.
+7.
+8. The energy release and driving force for dilution are minimal compared to the hydration of lime.
+9.
+10. Conclusion: Since the lime's hydration is a strong, rapid chemical reaction while the silicate's interaction is merely passive physical mixing, the lime consumes the available water first.NOTE: The eventual setting reaction (forming Calcium Silicate Hydrate) occurs only after the lime has successfully hydrated and the resulting calcium ions are available to slowly react with the silicate ions.
+
 All files here, Copyright Ron Lyttle 2025.
