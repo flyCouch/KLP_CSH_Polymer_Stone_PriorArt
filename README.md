@@ -74,4 +74,8 @@ The fresh liquid helps disperses the lime.
 
 The fresh liquid temporaily blocks the receptors on the sodium silicate for a few moments.
 
+The more liquid, the more moments of blockage. There is a limit though.
+
+Also, mixing times are important.
+
 All files here, Copyright Ron Lyttle 2025.
