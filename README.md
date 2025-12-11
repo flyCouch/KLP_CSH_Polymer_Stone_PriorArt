@@ -68,4 +68,10 @@ For the full, detailed license and disclosure, please refer to the LICENSE.md an
 
 It also works at room temperature if you are quick.
 
+Also, I have found that adding liquids such as the sugar solution or food colouring or new water (a small amount) makes a difference.
+
+The fresh liquid helps disperses the lime.
+
+Perhaps the fresh liquid temporaily blocks the receptors on the sodium silicate for a few moments.
+
 All files here, Copyright Ron Lyttle 2025.
